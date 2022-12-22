@@ -7,4 +7,5 @@
 
     <!-- We can change this between SillyPatronDAO and LocalPatronDAO -->
 <bean id="jobs" class="com.elevate.careerportal.DBjobsDAO"/>
+    <bean id="users" class="com.elevate.careerportal.DBUserDAO"/>
 </beans>
